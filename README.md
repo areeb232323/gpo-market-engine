@@ -11,11 +11,8 @@
 
 🔗 **[Try it now on HuggingFace](https://areebalt26-gpo-market-live.hf.space)**
 
-## 📸 Screenshots
 
-![Dashboard](assets/dashboard_preview.png)
-
-## ✨ Features
+##  Features
 
 - **Real-Time Trade Feed** - Live Discord scraping with sub-100ms latency
 - **Online Machine Learning** - Price prediction using River OML & Kalman Filters
@@ -23,7 +20,7 @@
 - **HFT Architecture** - Event-driven with volume clock updates
 - **Crash Recovery** - Position persistence and event sourcing
 
-## 🏗️ Architecture
+Architecture
 
 ```mermaid
 flowchart LR
@@ -41,7 +38,7 @@ flowchart LR
     Ensemble -->|Predictions| API[Price API]
 ```
 
-## 🔧 Tech Stack
+Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -51,21 +48,21 @@ flowchart LR
 | Deployment | Railway, HuggingFace Spaces |
 | Data | Discord API, Custom Scraping |
 
-## 📊 Performance
+ Performance
 
 - ⚡ **Sub-10ms** trade-to-UI latency
 - 🔄 **Zero polling** - pure event-driven
 - 💾 **O(1) memory** ML updates
 - 📈 **55 Railway deployments**
 
-## 🎯 Key Achievements
+ Key Achievements
 
 1. **Built custom Online ML pipeline** with ADWIN drift detection
 2. **Implemented HFT-style architecture** with manual GC for latency control
 3. **Created real-time Discord integration** for trade monitoring
 4. **Designed volume-clock sampling** for Gaussian price distributions
 
-## 📝 Note
+Note
 
 This repository contains a showcase of the project architecture and capabilities.
 The core ML algorithms and trading logic are proprietary and hosted privately.
@@ -74,6 +71,6 @@ The core ML algorithms and trading logic are proprietary and hosted privately.
 
 ---
 
-## Created by
-**Areeb** - 2024-2026  
-*Built for Waterloo/UofT portfolio*
+Created by
+Aymaan Areeb Chowdhury - 2024-2026  
+
