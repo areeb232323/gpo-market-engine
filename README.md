@@ -3,7 +3,7 @@
 > **A High-Frequency Trading Bot for Grand Piece Online Marketplace**  
 > Real-time price discovery using Online Machine Learning and Discord integration
 
-![Python](https://img.shields.io/badge/Python-89.5%25-blue)
+
 ![Commits](https://img.shields.io/badge/Commits-60+-green)
 ![Deployments](https://img.shields.io/badge/Deployments-55-orange)
 
