@@ -7,7 +7,7 @@
 ![Commits](https://img.shields.io/badge/Commits-60+-green)
 ![Deployments](https://img.shields.io/badge/Deployments-55-orange)
 
-## 🚀 Live Demo
+Live Demo
 
 🔗 **[Try it now on HuggingFace](https://areebalt26-gpo-market-live.hf.space)**
 
@@ -50,10 +50,10 @@ Tech Stack
 
  Performance
 
-- ⚡ **Sub-10ms** trade-to-UI latency
-- 🔄 **Zero polling** - pure event-driven
-- 💾 **O(1) memory** ML updates
-- 📈 **55 Railway deployments**
+-  **Sub-10ms** trade-to-UI latency
+-  **Zero polling** - pure event-driven
+-  **O(1) memory** ML updates
+-  **55 Railway deployments**
 
  Key Achievements
 
